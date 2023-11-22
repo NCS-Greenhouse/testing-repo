@@ -1,0 +1,3 @@
+[submodule "RMML-UGV-NCS"]
+	path = RMML-UGV-NCS
+	url = https://github.com/NCS-Greenhouse/RMML-UGV-NCS.git
